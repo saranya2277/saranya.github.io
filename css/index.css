@@ -34,7 +34,7 @@ body {
     left: 50%;
     font-weight: bolder;
     font-size: 70px;
-    color: brown;
+    color: gold;
   }
   
   .sub_title {
@@ -43,7 +43,7 @@ body {
     left: 50%;
     font-weight: bolder;
     font-size: 20px;
-    color: gainsboro;
+    color: rgb(37, 27, 27);
   }
   
   .about_me {
@@ -51,9 +51,9 @@ body {
     top: 35%;
     left: 50%;
     padding: 10px 20px;
-    background-color: rgb(255, 0, 85);
+    background-color: red;
     border-color: rgb(17, 16, 12);
-    color: #ffffff;
+    color: #eaee11;
     font-weight: bolder;
     outline: none;
     color: white;
