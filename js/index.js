@@ -123,7 +123,7 @@ $(document).ready(function () {
         project_count = 0;
       }
       project_count++;
-      $('.actual_img').attr('src', '/img/project_' + project_count + '.png');
+      $('.actual_img').attr('src', './img/project_' + project_count + '.png');
       if (project_count == 1) {
         $('.project_name').text('WorkRe');
         $('.project_content').text('This application contains a list of all work cafes near you, you can make booking in any cafes you want by selecting the time and date at which you will be arriving at the cafe.')
@@ -146,7 +146,7 @@ $(document).ready(function () {
         project_count = 5;
       }
       project_count--;
-      $('.actual_img').attr('src', '/img/project_' + project_count + '.png');
+      $('.actual_img').attr('src', './img/project_' + project_count + '.png');
       if (project_count == 1) {
         $('.project_name').text('WorkRe');
         $('.project_content').text('This application contains a list of all work cafes near you, you can make booking in any cafes you want by selecting the time and date at which you will be arriving at the cafe.')
